@@ -1,6 +1,6 @@
 <h1 style="text-align: center">Welcome</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" style="text-align: right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" style="text-align: right; align-items: right;">
 
 <p style="text-align: left"> 
   Hello, I'm carlosfloresta, I'm a full stack developer, currently studying systems analysis and development and working as a jr systems development analyst.
