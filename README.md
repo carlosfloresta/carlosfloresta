@@ -14,8 +14,8 @@ To contact me, about work or any questions use the links below it will be a plea
 
 <p style="text-align: left">
   <a target="_blank"  href="https://www.linkedin.com/in/carlos-henrique-costa/" alt="Linkedin">
-  <img width="60" src="images/linkedin.png"/></a>
+  <img width="40" src="images/linkedin.png"/></a>
 
   <a target="_blank"  href="https://api.whatsapp.com/send?phone=5511955516719&text=Oi%2C%20vim%20pelo%20github" alt="Linkedin">
-  <img width="60" src="images/whatsapp.png"/></a>
+  <img width="40" src="images/whatsapp.png"/></a>
 </p>  
