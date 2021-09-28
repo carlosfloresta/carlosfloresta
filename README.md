@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Floresta</h1>
-<h3 align="center">I'm a full stack developer, currently studying system analysis and development and looking for opportunities in the area.</h3>
+<h3 align="center">I'm a full stack developer, currently studying system analysis and development and looking for opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosfloresta&label=Profile%20views&color=0e75b6&style=flat" alt="carlosfloresta" /> </p>
 
@@ -24,6 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosfloresta&" alt="carlosfloresta" /></p>
 
 <h3>maybe you're interested</h3>
+
 - CRUD in Laravel (https://github.com/carlosfloresta/Teste-CEJAM)
 
 - Consuming REST API in laravel (https://github.com/carlosfloresta/desafio-petiko)
