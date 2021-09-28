@@ -22,3 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosfloresta&show_icons=true&locale=en" alt="carlosfloresta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosfloresta&" alt="carlosfloresta" /></p>
+
+<h3>maybe you're interested<h3>
+- CRUD in Laravel (https://github.com/carlosfloresta/Teste-CEJAM)
+- Consuming REST API in laravel (https://github.com/carlosfloresta/desafio-petiko)
+- CRUD in Phalcon (https://github.com/carlosfloresta/teste-midas-phalcon-crud)
+- Create API REST in PHP (https://github.com/carlosfloresta/teste-onewebbr)
